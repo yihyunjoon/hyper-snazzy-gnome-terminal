@@ -7,6 +7,6 @@ Color scheme from [hyper-snazzy](https://github.com/sindresorhus/hyper-snazzy)
 
 ## Install
 
-Simply `./hyper-snazzy.sh`. it will add hyper-snazzy profile.
+Simply `chmod +x hyper-snazzy.sh && ./hyper-snazzy.sh`. it will add hyper-snazzy profile.
 
 ![](profile.png)
